@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+title: >-
+  Statistical Optimization of Multi-Factor Adsorption Processes 
+  Using Factorial ANOVA: A JASP-Based Methodology Demonstration
+message: >-
+  If you use this dataset, methodology, or code, please cite it using 
+  the metadata from this file.
+type: dataset
+authors:
+  - family-names: Rababah
+    given-names: Anfal
+    email: Anfal0Rababah@gmail.com
+    orcid: 'https://orcid.org/0009-0003-7450-8907'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17563321
+    description: Zenodo DOI
+repository-code: 'https://github.com/Anfal-AR/Adsorption-Factorial-ANOVA'
+url: 'https://doi.org/10.5281/zenodo.17563321'
+abstract: >-
+  This study demonstrates a comprehensive statistical framework for 
+  optimizing multi-factor adsorption processes using factorial analysis 
+  of variance (ANOVA). A synthetic dataset (n=2,304 experiments) was 
+  generated using established adsorption models (Langmuir isotherm and 
+  pseudo-second-order kinetics) with realistic experimental variability 
+  (CV=6.6-8.7%) to illustrate accessible statistical methodology. 
+  Four adsorbent types (Activated Carbon, Biochar, MOF, Zeolite) were 
+  evaluated across multiple operational conditions using JASP statistical 
+  software. The significant interaction between adsorbent type and dosage 
+  (F(9,2288)=17.74, p<.001, η²=.042) indicates that optimal dosage depends 
+  on adsorbent material. This open-source workflow provides researchers 
+  with accessible tools for experimental design and statistical optimization 
+  in adsorption studies.
+keywords:
+  - Factorial ANOVA
+  - Adsorption optimization
+  - Interaction effects
+  - JASP software
+  - Statistical methodology
+  - Open science
+  - Langmuir isotherm
+  - Pseudo-second-order kinetics
+  - Wastewater treatment
+  - Experimental design
+license: CC-BY-4.0
+version: '1.0'
+date-released: '2025-01-01'
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Rababah
+      given-names: Anfal
+      email: Anfal0Rababah@gmail.com
+      orcid: 'https://orcid.org/0009-0003-7450-8907'
+  title: >-
+    Statistical Optimization of Multi-Factor Adsorption Processes 
+    Using Factorial ANOVA: A JASP-Based Methodology Demonstration
+  year: 2025
+  doi: 10.5281/zenodo.17563321
+  url: 'https://doi.org/10.5281/zenodo.17563321'
+  journal: Zenodo
